@@ -17,12 +17,13 @@ Ces TP illustrent des concepts fondamentaux en administration réseau et s’acc
 - **Rapports**
   - [RIPv2_Velasco_.docx](RIPv2_Velasco_.docx)  
   - [DHCP_Server_Velasco Angel.docx](DHCP_Server_Velasco%20Angel.docx)
-- **Présentations** *(à ajouter si disponibles)*
-  - `RIPv2_Presentation.pdf` / `RIPv2_Presentation.pptx`  
-  - `DHCP_Presentation.pdf` / `DHCP_Presentation.pptx`
+- **Présentations** 
+  - RIPv2 : Packet Tracer - Configuring RIPv2.pdf
+  - DHCP : Lab 02_FR-v3.pdf
 - **Fichiers Packet Tracer**
-  - `RIPv2_Velasco_.pkt`  
-  - `DHCP_Server_Velasco.pkt`
+  - `Packet Tracer - Configuring RIPv2-v1.pkt`
+  - `Velasco_DHCP_Server_V1.pkt`
+  - `Velasco_DHCP_Server_V2.pkt`
 
 ---
 
